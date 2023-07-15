@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sataria.github.io/sitemap.xml
